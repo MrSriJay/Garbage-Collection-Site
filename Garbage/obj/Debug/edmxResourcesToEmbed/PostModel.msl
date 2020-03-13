@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CMSModelStoreContainer" CdmEntityContainer="CMSEntities1">
+    <EntitySetMapping Name="Posts">
+      <EntityTypeMapping TypeName="CMSModel.Post">
+        <MappingFragment StoreEntitySet="Post">
+          <ScalarProperty Name="postId" ColumnName="postId" />
+          <ScalarProperty Name="postTitle" ColumnName="postTitle" />
+          <ScalarProperty Name="postDecription" ColumnName="postDecription" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="latitude" ColumnName="latitude" />
+          <ScalarProperty Name="longitude" ColumnName="longitude" />
+          <ScalarProperty Name="datePosted" ColumnName="datePosted" />
+          <ScalarProperty Name="validatition" ColumnName="validatition" />
+          <ScalarProperty Name="importance_level" ColumnName="importance_level" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+          <ScalarProperty Name="img" ColumnName="img" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,490 @@
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+D:\Visual Studio\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+D:\Visual Studio\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+C:\Users\Jayanga Palihena\Desktop\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+C:\Users\Jayanga Palihena\Desktop\New folder\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\EntityFramework.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\EntityFramework.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.xml
+G:\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+G:\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+G:\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+G:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+G:\Web Assignment\Garbage\Garbage\bin\EntityFramework.dll
+G:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.dll
+G:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Web Assignment\Garbage\Garbage\bin\Microsoft.Web.Infrastructure.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.dll
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.dll
+G:\Web Assignment\Garbage\Garbage\bin\EntityFramework.xml
+G:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.xml
+G:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.xml
+G:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+G:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+G:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+G:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+G:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+D:\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+D:\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+D:\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+D:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+D:\Web Assignment\Garbage\Garbage\bin\EntityFramework.dll
+D:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.dll
+D:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web Assignment\Garbage\Garbage\bin\Microsoft.Web.Infrastructure.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.dll
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.dll
+D:\Web Assignment\Garbage\Garbage\bin\EntityFramework.xml
+D:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.xml
+D:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.xml
+D:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+D:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+D:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+D:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+D:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+F:\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+F:\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+F:\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+F:\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+F:\Web Assignment\Garbage\Garbage\bin\EntityFramework.dll
+F:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.dll
+F:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web Assignment\Garbage\Garbage\bin\Microsoft.Web.Infrastructure.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.dll
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.dll
+F:\Web Assignment\Garbage\Garbage\bin\EntityFramework.xml
+F:\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.xml
+F:\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.xml
+F:\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+F:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CoreCompileInputs.cache
+F:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+F:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+F:\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Garbage.dll.config
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Garbage.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Garbage.pdb
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csc.exe.config
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csc.rsp
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csi.exe.config
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\csi.rsp
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.AppContext.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Collections.Immutable.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Console.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.Process.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Compression.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.IO.Pipes.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Reflection.Metadata.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.AccessControl.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Claims.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Threading.Thread.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.ValueTuple.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.exe.config
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\vbc.rsp
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\roslyn\VBCSCompiler.exe.config
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\EntityFramework.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Microsoft.Web.Infrastructure.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\EntityFramework.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\EntityFramework.SqlServer.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Helpers.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Mvc.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.Razor.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Deployment.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\System.Web.WebPages.Razor.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csprojAssemblyReference.cache
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.csproj.CopyComplete
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.dll
+D:\NSBM\2nd Year\PUSL2002 Web Development Platforms\Web Assignment\Garbage\Garbage\obj\Debug\Garbage.pdb

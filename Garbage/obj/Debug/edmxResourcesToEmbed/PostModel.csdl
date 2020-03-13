@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="postId" />
+    </Key>
+    <Property Name="postId" Type="Int32" Nullable="false" />
+    <Property Name="postTitle" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="postDecription" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="latitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="longitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="datePosted" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="validatition" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="importance_level" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="userid" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="img" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="CMSEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Posts" EntityType="Self.Post" />
+  </EntityContainer>
+</Schema>
